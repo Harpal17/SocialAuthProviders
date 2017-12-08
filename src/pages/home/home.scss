@@ -1,0 +1,46 @@
+page-home {
+  .login-form-container {
+    background-color: aquamarine;
+  }
+
+  .logo-row {
+    padding-top: 50px;
+    padding-bottom: 20px;
+  }
+
+  .login-box {
+    background: #399F8B;
+    padding: 10px 10px 10px 10px;
+    margin-top: 20px;
+  }
+
+  .forgot_pwd {
+    text-align: right;
+    margin-right: 10px;
+  }
+
+  .login-button {
+    width: 100%;
+    margin-top: 20px;
+    background-color: #399F8B;
+  }
+
+  .login-google {
+    width: 100%;
+    background-color: #f53d3d;
+  }
+
+  .login-facebook {
+    width: 100%;
+  }
+
+  .logoCon{
+    padding: 0 50px;
+    text-align: center;
+    margin-top: 30px;
+  }
+  .logoCon img{
+    width: 150px;
+  }
+
+}
